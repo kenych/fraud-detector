@@ -1,4 +1,3 @@
-(build by jenkins, triggred by jobdsl)
 **Fraud detection system**
 
 The application is fed with authentication log record which contains IP address, datetime, authentication result(OK or FAIL) and username.
